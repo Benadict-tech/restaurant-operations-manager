@@ -16,23 +16,23 @@ By the end of this phase you will be able to:
 
 | # | Lesson | Status |
 |---|--------|--------|
-| 0 | Project setup, virtual environments, pip | ⬜ |
-| 1 | Variables, data types, print, f-strings | ⬜ |
-| 2 | Type conversion, input/output, operators | ⬜ |
-| 3 | Conditionals (if / elif / else) | ⬜ |
-| 4 | Loops (for / while), break, continue | ⬜ |
-| 5 | Collections I — lists & tuples | ⬜ |
-| 6 | Collections II — dicts & sets | ⬜ |
-| 7 | String manipulation | ⬜ |
-| 8 | Functions, parameters, return, defaults | ⬜ |
-| 9 | Scope — local vs global | ⬜ |
-| 10 | Comprehensions & lambdas | ⬜ |
-| 11 | Modules & imports | ⬜ |
-| 12 | First FastAPI app — routes & HTTP methods | ⬜ |
-| 13 | Path & query parameters | ⬜ |
-| 14 | Request bodies & Pydantic models | ⬜ |
-| 15 | Response models & status codes | ⬜ |
-| 16 | Phase 1 capstone — in-memory product API | ⬜ |
+| 0 | Project setup, virtual environments, pip | ✅ |
+| 1 | Variables, data types, print, f-strings | ✅ |
+| 2 | Type conversion, input/output, operators | ✅ |
+| 3 | Conditionals (if / elif / else) | ✅ |
+| 4 | Loops (for / while), break, continue | ✅ |
+| 5 | Collections I — lists & tuples | ✅ |
+| 6 | Collections II — dicts & sets | ✅ |
+| 7 | String manipulation | ✅ |
+| 8 | Functions, parameters, return, defaults | ✅ |
+| 9 | Scope — local vs global | ✅ |
+| 10 | Comprehensions & lambdas | ✅ |
+| 11 | Modules & imports | ✅ |
+| 12 | First FastAPI app — routes & HTTP methods | ✅ |
+| 13 | Path & query parameters | ✅ |
+| 14 | Request bodies & Pydantic models | ✅ |
+| 15 | HTTP verbs, status codes & HTTPException | ✅ |
+| 16 | Phase 1 capstone — in-memory product API | ✅ |
 
 ## Notes
 
